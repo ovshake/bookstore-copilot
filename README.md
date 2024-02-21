@@ -1,6 +1,6 @@
 # Book Store CoPilot: A Deep Dive into Chatbot Development
 
-The [1_bookstore_chatbot.ipynb](1_bookstore_chatbot.ipynb) notebook serves as an in-depth tutorial for developing a sophisticated chatbot tailored for bookstore applications. This guide meticulously walks through every stage of chatbot creation, from the initial setup to the final user interaction. Below is a detailed explanation of the processes and methodologies employed within the notebook, including the utilization of the CMU Kaggle Dataset for book summaries:
+The [1_bookstore_chatbot.ipynb ](https://github.com/ovshake/bookstore-copilot/blob/main/src/notebooks%20/1_bookstore_chatbot.ipynb)notebook serves as an in-depth tutorial for developing a sophisticated chatbot tailored for bookstore applications. This guide meticulously walks through every stage of chatbot creation, from the initial setup to the final user interaction. Below is a detailed explanation of the processes and methodologies employed within the notebook, including the utilization of the CMU Kaggle Dataset for book summaries:
 
 1. **Environment Setup**: This initial phase prepares the development environment by loading necessary Python extensions for code autoreload. It also involves importing critical libraries such as pandas for data handling, weaviate for database interactions, and openai to utilize GPT models, setting the foundation for the chatbot's functionality.
 
